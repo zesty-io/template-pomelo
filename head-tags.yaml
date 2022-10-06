@@ -1,0 +1,89 @@
+
+  - type: "link"
+    attributes:
+      href: "https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500"
+      rel: "stylesheet"
+    sort: 1
+  - type: "meta"
+    attributes:
+      content: "yes"
+      name: "apple-mobile-web-app-capable"
+    sort: 0
+  - type: "link"
+    attributes:
+      href: "https://use.fontawesome.com/releases/v5.12.0/css/all.css"
+      rel: "stylesheet"
+    sort: 5
+  - type: "link"
+    attributes:
+      href: "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+      rel: "stylesheet"
+    sort: 6
+  - type: "link"
+    attributes:
+      href: "https://qd4sf0hv.media.zestyio.com/pomelo_favicon.png"
+      rel: "icon"
+      sizes: "196x196"
+      type: "image/png"
+    sort: 0
+  - type: "meta"
+    attributes:
+      content: "width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0"
+      name: "viewport"
+    sort: 0
+  - type: "link"
+    attributes:
+      href: "https://fonts.googleapis.com/css?family=Poppins:800,400"
+      rel: "stylesheet"
+    sort: 1
+  - type: "link"
+    attributes:
+      href: "https://fonts.googleapis.com/css?family=Poppins:800"
+      rel: "stylesheet"
+    sort: 1
+  - type: "link"
+    attributes:
+      href: "https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.min.css"
+      media: "screen"
+      rel: "stylesheet"
+    sort: 11
+  - type: "link"
+    attributes:
+      href: "https://fonts.googleapis.com/css?family=Lato:100,300,400,400i,700"
+      rel: "stylesheet"
+    sort: 1
+  - type: "link"
+    attributes:
+      href: "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.1/css/bootstrap.min.css"
+      rel: "stylesheet"
+    sort: 4
+  - type: "link"
+    attributes:
+      href: "https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css"
+      rel: "stylesheet"
+    sort: 7
+  - type: "script"
+    attributes:
+      src: "https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"
+    sort: 15
+  - type: "link"
+    attributes:
+      href: "https://fonts.googleapis.com/css?family=Poppins:800"
+      rel: "stylesheet"
+    sort: 1
+  - type: "meta"
+    attributes:
+      content: "black"
+      name: "apple-mobile-web-app-status-bar-style"
+    sort: 0
+  - type: "link"
+    attributes:
+      href: "https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css"
+      rel: "stylesheet"
+      type: "text/css"
+    sort: 18
+  - type: "meta"
+    attributes:
+      content: "IE=edge"
+      http-equiv: "X-UA-Compatible"
+    sort: 0

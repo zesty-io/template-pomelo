@@ -1,0 +1,106 @@
+
+  - id: "ff2d-5c0f-5ad9"
+    web:
+      metaDescription: ""
+      metaTitle: "Sarah Nader"
+      metaLinkText: "Sarah Nader"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 129
+      listed: true
+    data:
+      image: "https://qd4sf0hv.media.zestyio.com/team-member-1.jpg"
+      job_title: "Marketing Lead"
+      name: "Sarah Nader"
+      sort_order: 5
+  - id: "507f-c98a-b040"
+    web:
+      metaDescription: ""
+      metaTitle: "Yul B.Allwright"
+      metaLinkText: "Yul B.Allwright"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 128
+      listed: true
+    data:
+      image: "https://qd4sf0hv.media.zestyio.com/team-member-2.jpg"
+      job_title: "Developer"
+      name: "Yul B.Allwright"
+      sort_order: 4
+  - id: "05a5-3a80-ccc0"
+    web:
+      metaDescription: ""
+      metaTitle: "Frank N.Stein"
+      metaLinkText: "Frank N.Stein"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 127
+      listed: true
+    data:
+      image: "https://qd4sf0hv.media.zestyio.com/team-member-5.jpg"
+      job_title: "Designer"
+      name: "Frank N.Stein"
+      sort_order: 3
+  - id: "70b6-b391-e98c"
+    web:
+      metaDescription: ""
+      metaTitle: "Rick O’Shea"
+      metaLinkText: "Rick O’Shea"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 126
+      listed: true
+    data:
+      image: "https://qd4sf0hv.media.zestyio.com/team-member-4.jpg"
+      job_title: "Director"
+      name: "Rick O’Shea"
+      sort_order: 2
+  - id: "dc83-e870-2327"
+    web:
+      metaDescription: ""
+      metaTitle: "Helen Hywater"
+      metaLinkText: "Helen Hywater"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 125
+      listed: true
+    data:
+      image: "https://qd4sf0hv.media.zestyio.com/team-member-3.jpg"
+      job_title: "CEO"
+      name: "Helen Hywater"
+      sort_order: 1

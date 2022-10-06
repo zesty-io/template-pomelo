@@ -1,0 +1,33 @@
+
+  - referenceName: "brand-primary"
+    name: "Brand Color"
+    sort: 3
+    type: "color"
+    value: "#b72761"
+    description: "This color is used throughout the website as the brand color."
+    category: 1
+    options: null
+  - referenceName: "accent-color"
+    name: "Accent Color"
+    sort: 3
+    type: "color"
+    value: "#28a783"
+    description: "This color is used for hairlines, borders, even color on tables, and general aesthetics"
+    category: 1
+    options: null
+  - referenceName: "secondary_color"
+    name: "Secondary Color"
+    sort: 3
+    type: "color"
+    value: "#3c4766"
+    description: "Secondary Brand Color"
+    category: 1
+    options: null
+  - referenceName: "accent2"
+    name: "Secondary Accent"
+    sort: 4
+    type: "color"
+    value: "#868395"
+    description: "Secondary Accent Brand Color"
+    category: 1
+    options: null

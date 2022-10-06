@@ -1,0 +1,21 @@
+
+  - id: "7dd1-e89e-ed6a"
+    web:
+      metaDescription: ""
+      metaTitle: "Contact"
+      metaLinkText: "Contact"
+      metaKeywords: null
+      pathPart: "contact"
+      path: "/contact/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 131
+      listed: true
+    data:
+      content: "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Beatus sibi videtur esse moriens. Duo Reges: constructio interrete. Quae diligentissime contra Aristonem dicuntur a Chryippo. At enim hic etiam dolore.</p>\n<p>Quorum sine causa fieri nihil putandum est.&nbsp;Illa tamen simplicia, vestra versuta. Non igitur bene. Facillimum id quidem est, inquam. Minime vero istorum quidem, inquit. Sed hoc sane concedamus.</p>"
+      google_maps_iframe_url: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3356.860843071992!2d-117.16122958455581!3d32.716325280990375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d954a79ef0967f%3A0x74a5fd5ef322db6f!2sZesty.io!5e0!3m2!1sen!2ses!4v1582793821771!5m2!1sen!2ses"
+      title: "We'd love to work with you!"

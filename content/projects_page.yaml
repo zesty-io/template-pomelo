@@ -1,0 +1,20 @@
+
+  - id: "bfd6-9ea5-9b79"
+    web:
+      metaDescription: ""
+      metaTitle: "Our Projects"
+      metaLinkText: "Our Projects"
+      metaKeywords: null
+      pathPart: "our-projects"
+      path: "/our-projects/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 110
+      listed: true
+    data:
+      content: "<h1>Duo Reges: constructio interrete.</h1>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nondum autem explanatum satis, erat, quid maxime natura vellet. Negat enim summo bono afferre incrementum diem. Quamquam id quidem, infinitum est in hac urbe; Graccho, eius fere, aequal&iacute;? Quod si ita se habeat, non possit beatam praestare vitam sapientia. Quid enim tanto opus est instrumento in optimis artibus comparandis? Nemo nostrum istius generis asotos iucunde putat vivere. Quae cum essent dicta, discessimus. Varietates autem iniurasque fortunae facile veteres philosophorum praeceptis instituta vita superabat. Ille enim occurrentia nescio quae comminiscebatur; Illa videamus, quae a te de amicitia dicta sunt. Non semper, inquam.</p>"
+      title: "Our Projects"

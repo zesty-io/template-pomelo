@@ -1,0 +1,106 @@
+
+  - id: "9866-1d40-0233"
+    web:
+      metaDescription: ""
+      metaTitle: "Contact"
+      metaLinkText: "Contact"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 137
+      listed: true
+    data:
+      external_url: null
+      internal_page: "7-e8bfe9fe88-77tt7q"
+      sort_order: 5
+      title: "Contact"
+  - id: "6f21-49c3-1cfe"
+    web:
+      metaDescription: ""
+      metaTitle: "About"
+      metaLinkText: "About"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 136
+      listed: true
+    data:
+      external_url: null
+      internal_page: "7-c0a1cef89e-kf53r7"
+      sort_order: 4
+      title: "About"
+  - id: "a18a-1b4c-ff8f"
+    web:
+      metaDescription: ""
+      metaTitle: "Projects"
+      metaLinkText: "Projects"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 135
+      listed: true
+    data:
+      external_url: null
+      internal_page: "7-ba89ece0b8-vh537w"
+      sort_order: 3
+      title: "Projects"
+  - id: "f9db-7e4a-fca1"
+    web:
+      metaDescription: ""
+      metaTitle: "Services"
+      metaLinkText: "Services"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 134
+      listed: true
+    data:
+      external_url: null
+      internal_page: "7-b8acead9b2-dmfddt"
+      sort_order: 2
+      title: "Services"
+  - id: "8ef1-6403-5360"
+    web:
+      metaDescription: ""
+      metaTitle: "Home"
+      metaLinkText: "Home"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 133
+      listed: true
+    data:
+      external_url: null
+      internal_page: "7-baab8d819e-4qxwtj"
+      sort_order: 1
+      title: "Home"

@@ -1,0 +1,61 @@
+
+  - id: "d24e-a101-7556"
+    web:
+      metaDescription: ""
+      metaTitle: "youtube"
+      metaLinkText: "youtube"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 141
+      listed: true
+    data:
+      fontawesome_icon: "youtube-play"
+      sort_order: 3
+      url: "https://www.youtube.com/c/Zestyio"
+  - id: "f387-2558-ee79"
+    web:
+      metaDescription: ""
+      metaTitle: "twitter"
+      metaLinkText: "twitter"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 140
+      listed: true
+    data:
+      fontawesome_icon: "twitter"
+      sort_order: 2
+      url: "https://twitter.com/zestyio"
+  - id: "0bcc-9fee-4294"
+    web:
+      metaDescription: ""
+      metaTitle: "facebook-f"
+      metaLinkText: "facebook-f"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 139
+      listed: true
+    data:
+      fontawesome_icon: "facebook-f"
+      sort_order: 1
+      url: "https://www.facebook.com/zestyio"

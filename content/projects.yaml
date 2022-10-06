@@ -1,0 +1,67 @@
+
+  - id: "8a6a-3843-b5ea"
+    web:
+      metaDescription: "Duo Reges: constructio interrete.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nondum autem explanatum satis, erat, quid maxime natura vellet. Negat"
+      metaTitle: "Project 3"
+      metaLinkText: "Project 3"
+      metaKeywords: null
+      pathPart: "project-3"
+      path: "/projects-page/project-3/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/projects-page/"
+    meta:
+      sort: 120
+      listed: true
+    data:
+      content: "<h1>Duo Reges: constructio interrete.</h1>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nondum autem explanatum satis, erat, quid maxime natura vellet. Negat enim summo bono afferre incrementum diem. Quamquam id quidem, infinitum est in hac urbe; Graccho, eius fere, aequal&iacute;? Quod si ita se habeat, non possit beatam praestare vitam sapientia. Quid enim tanto opus est instrumento in optimis artibus comparandis? Nemo nostrum istius generis asotos iucunde putat vivere. Quae cum essent dicta, discessimus. Varietates autem iniurasque fortunae facile veteres philosophorum praeceptis instituta vita superabat. Ille enim occurrentia nescio quae comminiscebatur; Illa videamus, quae a te de amicitia dicta sunt. Non semper, inquam;</p>\n<ul>\n<li>Collige omnia, quae soletis: Praesidium amicorum.</li>\n<li>Itaque homo in primis ingenuus et gravis, dignus illa familiaritate Scipionis et Laelii, Panaetius, cum ad Q.</li>\n</ul>"
+      image: "https://qd4sf0hv.media.zestyio.com/project_3.jpg"
+      sort_order: 3
+      subtitle: "Subtitle Text"
+      title: "Project 3"
+  - id: "28dc-196e-f4ea"
+    web:
+      metaDescription: "Bonum valitudo: miser morbus.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Quam si explicavisset, non tam haesitaret. Venit ad extremum; Praeclarae "
+      metaTitle: "Project 1"
+      metaLinkText: "Project 1"
+      metaKeywords: null
+      pathPart: "project-1"
+      path: "/projects-page/project-1/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/projects-page/"
+    meta:
+      sort: 118
+      listed: true
+    data:
+      content: "<h1>Bonum valitudo: miser morbus.</h1>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quam si explicavisset, non tam haesitaret. Venit ad extremum; Praeclarae mortes sunt imperatoriae; Quantum Aristoxeni ingenium consumptum videmus in musicis? Quae contraria sunt his, malane? <a href=\"http://loripsum.net/\" target=\"_blank\" rel=\"noopener\">Duo Reges: constructio interrete.</a> Ac tamen hic mallet non dolere. <a href=\"http://loripsum.net/\" target=\"_blank\" rel=\"noopener\">Haec igitur Epicuri non probo, inquam.</a></p>\n<h4>Dic in quovis conventu te omnia facere, ne doleas.</h4>\n<p>Non semper, inquam; Nos commodius agimus. Si verbum sequimur, primum longius verbum praepositum quam bonum. Ita graviter et severe voluptatem secrevit a bono. <a href=\"http://loripsum.net/\" target=\"_blank\" rel=\"noopener\">Haec dicuntur inconstantissime.</a> Nulla erit controversia.</p>\n<h2>Duarum enim vitarum nobis erunt instituta capienda.</h2>\n<p>Murenam te accusante defenderem. Hunc vos beatum; Apparet statim, quae sint officia, quae actiones. <mark>Sed quid sentiat, non videtis.</mark> A mene tu? Equidem e Cn. Disserendi artem nullam habuit. Si longus, levis dictata sunt.</p>\n<ul>\n<li>Quae adhuc, Cato, a te dicta sunt, eadem, inquam, dicere posses, si sequerere Pyrrhonem aut Aristonem.</li>\n<li>Ubi ut eam caperet aut quando?</li>\n<li>Si sapiens, ne tum quidem miser, cum ab Oroete, praetore Darei, in crucem actus est.</li>\n<li>Res enim fortasse verae, certe graves, non ita tractantur, ut debent, sed aliquanto minutius.</li>\n</ul>\n<p>Ne in odium veniam, si amicum destitero tueri. <mark>Pauca mutat vel plura sane;</mark> Tecum optime, deinde etiam cum mediocri amico. Cur iustitia laudatur? Si enim ad populum me vocas, eum. Tanta vis admonitionis inest in locis; Primum Theophrasti, Strato, physicum se voluit;</p>\n<h3>Illud quaero, quid ei, qui in voluptate summum bonum ponat, consentaneum sit dicere.</h3>\n<p>Id mihi magnum videtur. Scrupulum, inquam, abeunti; <a href=\"http://loripsum.net/\" target=\"_blank\" rel=\"noopener\">Igitur ne dolorem quidem.</a> <a href=\"http://loripsum.net/\" target=\"_blank\" rel=\"noopener\">Fortemne possumus dicere eundem illum Torquatum?</a></p>"
+      image: "https://qd4sf0hv.media.zestyio.com/project_1.jpg"
+      sort_order: 1
+      subtitle: "Subtitle Text"
+      title: "Project 1"
+  - id: "4a55-3b54-156c"
+    web:
+      metaDescription: "Sed tu istuc dixti bene Latine, parum plane.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Certe non potest. Huius ego nunc auctoritatem sequens idem"
+      metaTitle: "Project 2"
+      metaLinkText: "Project 2"
+      metaKeywords: null
+      pathPart: "project-2"
+      path: "/projects-page/project-2/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/projects-page/"
+    meta:
+      sort: 119
+      listed: true
+    data:
+      content: "<h1>Sed tu istuc dixti bene Latine, parum plane.</h1>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Certe non potest. Huius ego nunc auctoritatem sequens idem faciam. Mihi, inquam, qui te id ipsum rogavi? Tollenda est atque extrahenda radicitus. Cur iustitia laudatur? Sed videbimus. Solum praeterea formosum, solum liberum, solum civem, stultost;</p>\n<h2>Duo Reges: constructio interrete.</h2>\n<p>Quo modo autem optimum, si bonum praeterea nullum est? Quam si explicavisset, non tam haesitaret. Hunc vos beatum; <a href=\"http://loripsum.net/\" target=\"_blank\" rel=\"noopener\">Nunc vides, quid faciat.</a> De vacuitate doloris eadem sententia erit. Eadem nunc mea adversum te oratio est.</p>\n<ul>\n<li>Traditur, inquit, ab Epicuro ratio neglegendi doloris.</li>\n<li>Quae hic rei publicae vulnera inponebat, eadem ille sanabat.</li>\n<li>Addo etiam illud, multa iam mihi dare signa puerum et pudoris et ingenii, sed aetatem vides.</li>\n<li>Urgent tamen et nihil remittunt.</li>\n<li>Atque haec coniunctio confusioque virtutum tamen a philosophis ratione quadam distinguitur.</li>\n</ul>\n<p>Illa tamen simplicia, vestra versuta. Quo plebiscito decreta a senatu est consuli quaestio Cn.</p>"
+      image: "https://qd4sf0hv.media.zestyio.com/project_2.jpg"
+      sort_order: 2
+      subtitle: "Subtitle Text"
+      title: "Project 2"
