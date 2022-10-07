@@ -1,5 +1,5 @@
 
-  - id: "9866-1d40-0233"
+  - id: "e9e9-4592-db93"
     web:
       metaDescription: ""
       metaTitle: "Contact"
@@ -17,10 +17,10 @@
       listed: true
     data:
       external_url: null
-      internal_page: "7-e8bfe9fe88-77tt7q"
+      internal_page: "28e0-4606-accd"
       sort_order: 5
       title: "Contact"
-  - id: "6f21-49c3-1cfe"
+  - id: "d82a-257a-5126"
     web:
       metaDescription: ""
       metaTitle: "About"
@@ -38,10 +38,10 @@
       listed: true
     data:
       external_url: null
-      internal_page: "7-c0a1cef89e-kf53r7"
+      internal_page: "32fb-0484-fb9c"
       sort_order: 4
       title: "About"
-  - id: "a18a-1b4c-ff8f"
+  - id: "cf99-38ad-c418"
     web:
       metaDescription: ""
       metaTitle: "Projects"
@@ -59,10 +59,10 @@
       listed: true
     data:
       external_url: null
-      internal_page: "7-ba89ece0b8-vh537w"
+      internal_page: "24de-487a-19c7"
       sort_order: 3
       title: "Projects"
-  - id: "f9db-7e4a-fca1"
+  - id: "6938-ed00-7428"
     web:
       metaDescription: ""
       metaTitle: "Services"
@@ -80,10 +80,10 @@
       listed: true
     data:
       external_url: null
-      internal_page: "7-b8acead9b2-dmfddt"
+      internal_page: "0501-31cc-175e"
       sort_order: 2
       title: "Services"
-  - id: "8ef1-6403-5360"
+  - id: "2c6f-61c3-b224"
     web:
       metaDescription: ""
       metaTitle: "Home"
@@ -101,6 +101,6 @@
       listed: true
     data:
       external_url: null
-      internal_page: "7-baab8d819e-4qxwtj"
+      internal_page: "33d1-a7af-9452"
       sort_order: 1
       title: "Home"
