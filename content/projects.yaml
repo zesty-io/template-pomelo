@@ -6,12 +6,12 @@
       metaLinkText: "Project 3"
       metaKeywords: null
       pathPart: "project-3"
-      path: "/projects-page/project-3/"
+      path: "/our-projects/project-3/"
       sitemapPriority: -1
       canonicalTagMode: 1
       canonicalQueryParamWhitelist: null
       canonicalTagCustomValue: null
-      parent: "/projects-page/"
+      parent: "/our-projects/"
     meta:
       sort: 120
       listed: true
@@ -28,12 +28,12 @@
       metaLinkText: "Project 1"
       metaKeywords: null
       pathPart: "project-1"
-      path: "/projects-page/project-1/"
+      path: "/our-projects/project-1/"
       sitemapPriority: -1
       canonicalTagMode: 1
       canonicalQueryParamWhitelist: null
       canonicalTagCustomValue: null
-      parent: "/projects-page/"
+      parent: "/our-projects/"
     meta:
       sort: 118
       listed: true
@@ -50,12 +50,12 @@
       metaLinkText: "Project 2"
       metaKeywords: null
       pathPart: "project-2"
-      path: "/projects-page/project-2/"
+      path: "/our-projects/project-2/"
       sitemapPriority: -1
       canonicalTagMode: 1
       canonicalQueryParamWhitelist: null
       canonicalTagCustomValue: null
-      parent: "/projects-page/"
+      parent: "/our-projects/"
     meta:
       sort: 119
       listed: true
