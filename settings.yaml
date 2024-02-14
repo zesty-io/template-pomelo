@@ -313,3 +313,39 @@
   dataType: "textarea"
   options: null
   tips: null
+- category: "security"
+  key: "headless_authorization_key"
+  keyFriendly: "Headless Endpoint Authorization Secret Key"
+  value: ""
+  admin: null
+  parsleyAccess: null
+  dataType: "text"
+  options: ""
+  tips: 'When a value is exists, requests to WebEngine gql, instant, and toJSON endpoints will require the header "Authorization: bearer [Secret Key]". Cache bust required to activate.'
+- category: "security"
+  key: "authorization_key"
+  keyFriendly: "Full WebEngine Authorization Secret Key"
+  value: ""
+  admin: null
+  parsleyAccess: null
+  dataType: "text"
+  options: ""
+  tips: 'When a value is exists, ALL requests to WebEngine will require the header "Authorization: bearer [Secret Key]" to resolve. Cache bust required to activate.'
+- category: "security"
+  key: "x_frame_options"
+  keyFriendly: "Header: X-Frame-Options"
+  value: ""
+  admin: null
+  parsleyAccess: null
+  dataType: "text"
+  options: "More info https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options"
+  tips: "Here are some suggestions"
+- category: "security"
+  key: "basic_content_api_key"
+  keyFriendly: "Basic Content API Key"
+  value: ""
+  admin: null
+  parsleyAccess: null
+  dataType: "text"
+  options: "More info https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options"
+  tips: "Here are some suggestions"
