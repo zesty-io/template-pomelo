@@ -286,15 +286,6 @@
   dataType: "text"
   options: ""
   tips: "Cross Origin Request control to restrict requests to the origin specified, * is any"
-- category: "security"
-  key: "headless_authorization_key"
-  keyFriendly: "Headless Endpoint Authorization Secret Key"
-  value: ""
-  admin: null
-  parsleyAccess: null
-  dataType: "text"
-  options: ""
-  tips: 'When a value is exists, requests to WebEngine gql, instant, and toJSON endpoints will require the header "Authorization: bearer [Secret Key]". Cache bust required to activate.'
 - category: "developer"
   key: "auto_include_ga_tag"
   keyFriendly: "Auto Include Google Analytics Tags"
@@ -316,7 +307,7 @@
 - category: "security"
   key: "headless_authorization_key"
   keyFriendly: "Headless Endpoint Authorization Secret Key"
-  value: ""
+  value: null
   admin: null
   parsleyAccess: null
   dataType: "text"
@@ -325,7 +316,7 @@
 - category: "security"
   key: "authorization_key"
   keyFriendly: "Full WebEngine Authorization Secret Key"
-  value: ""
+  value: null
   admin: null
   parsleyAccess: null
   dataType: "text"
@@ -334,7 +325,7 @@
 - category: "security"
   key: "x_frame_options"
   keyFriendly: "Header: X-Frame-Options"
-  value: ""
+  value: null
   admin: null
   parsleyAccess: null
   dataType: "text"
@@ -343,7 +334,7 @@
 - category: "security"
   key: "basic_content_api_key"
   keyFriendly: "Basic Content API Key"
-  value: ""
+  value: null
   admin: null
   parsleyAccess: null
   dataType: "text"
